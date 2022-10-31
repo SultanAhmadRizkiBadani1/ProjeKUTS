@@ -1,0 +1,5 @@
+print("Jelaskan type data dalam Bahasa dasar pemrograman dan beri contoh data :")
+print("1. Boolean \nMenyatakan benar True yang bernilai 1, atau salah False yang bernilai 0 \ncontoh :True atau False")
+print("2. Srting \nMenyatakan karakter/kalimat bisa berupa huruf angka, dll(diapit tanda petik) \ncontoh : 'Mari Kita Belajar')")
+print("3. Integer \nMenyatakan bilangan bulat \ncontoh 1, 2, 100, -30, -5, 99999,")
+print("4. Float \nMenyatakan bilangan yang mempunyai koma \ncontoh : 5.5, 3.9, 72.8, -1.5, -0.7878999")
